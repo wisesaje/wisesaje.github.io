@@ -1,0 +1,12 @@
+body{
+  margin-top: 200px;
+  background-color: #FAFAFA;
+}
+.jumbotron{
+  border-radius: 10px;
+  background-color: #9C27B0;
+  color: #FFF;
+}
+p{
+  color: #e1bee7;
+}
